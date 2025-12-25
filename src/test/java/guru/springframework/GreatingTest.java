@@ -6,7 +6,7 @@ import javax.crypto.KeyAgreement;
 
 
 class GreatingTest {
-    private static Greating greating;
+    private Greating greating;
 
     @BeforeEach
     void setUp() {
